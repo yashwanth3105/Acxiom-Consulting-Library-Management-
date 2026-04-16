@@ -1,0 +1,1 @@
+Library Management System is a Python-based application developed using Tkinter and SQLite to automate library operations. It helps manage books, memberships, issue and return processes, fine calculation, and report generation efficiently. The system provides secure admin and user login access, making library management faster, easier, and more organized.
