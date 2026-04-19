@@ -1,4 +1,4 @@
-Objective
+Objective:
 The objective of this project is to develop a Library Management System using Python that helps in managing library operations such as:
 Adding and managing books
 Managing members
@@ -6,7 +6,7 @@ Issuing and returning books
 Calculating fines for late returns
 Maintaining records using a database
 
-Description
+Description:
 This project is a GUI-based application developed using Python Tkinter for the interface and SQLite for the database.
 The system supports two types of users:
 Admin
